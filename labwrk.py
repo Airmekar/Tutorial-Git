@@ -1,0 +1,1 @@
+print ("Welcome to git learning, First thing is to create a repository in github then you create your project folder in your local machine and initialize it with git init then you use git remote add origin master to add the local repo to your remote repo. After that you do a git pull origin master to have the files on your remote on your local.")
